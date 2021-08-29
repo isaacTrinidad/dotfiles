@@ -1,4 +1,4 @@
-# cp /usr/share/doc/alacritty/example/alacritty.yml /home/isaac/.config/alacritty/alacritty.yml
+# cp /usr/share/doc/alacritty/example/alacritty.yml ~/.config/alacritty/alacritty.yml
 
 import:
   - /home/isaac/.config/alacritty/themes/dracula.yml
